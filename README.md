@@ -7,3 +7,5 @@
 * Angular
 * Spring Boot
 * MySQL 
+* Jwt
+* Spring Security 
