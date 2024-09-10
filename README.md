@@ -10,9 +10,9 @@ Angular frontend of the QuickStay
 - Domain-driven design
 ## Usage
 ### Prerequisites
-- [NodeJS 20.11 LTS](https://nodejs.org/dist/v20.11.1/node-v20.11.1.pkg)
-- [Angular CLI v17](https://www.npmjs.com/package/@angular/cli)
-- IDE ([VSCode](https://code.visualstudio.com/download), [IntelliJ](https://www.jetbrains.com/idea/download/))
+- [NodeJS 20.11 LTS]
+- [Angular CLI v17]
+- IDE ([VSCode], [IntelliJ])
 
 ### Fetch dependencies
 ``npm install``
