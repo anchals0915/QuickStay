@@ -1,18 +1,13 @@
-# Airbnb clone (fullstack project) Spring boot 3, Angular 17, PrimeNG, PostgreSQL, Auth0 (2024) (Frontend)
+# QuickStay - Spring boot 3, Angular 17, PrimeNG, PostgreSQL, Auth0 (2024) (Frontend)
 
-Angular frontend of the airbnb clone
-
-[Video tutorial](https://youtu.be/XriUV06Hkow)
-
-[Spring boot Backend](https://github.com/C0de-cake/airbnb-clone-backend)
+Angular frontend of the QuickStay
 
 ### Key Features:
-- 📅 Booking management for travelers
-- 🏠 Landlord reservation management
-- 🔍 Search for houses by criteria (location, date, guests, beds, etc)
-- 🔐 Authentication and Authorization (Role management) with Auth0 (OAuth2)
-- 🏢 Domain-driven design
-
+- Booking management for travelers
+- Landlord reservation management
+- Search for houses by criteria (location, date, guests, beds, etc)
+- Authentication and Authorization (Role management) with Auth0 (OAuth2)
+- Domain-driven design
 ## Usage
 ### Prerequisites
 - [NodeJS 20.11 LTS](https://nodejs.org/dist/v20.11.1/node-v20.11.1.pkg)
