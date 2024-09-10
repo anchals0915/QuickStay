@@ -1,27 +1,29 @@
-# Quick Stay 
+# Airbnb clone (fullstack project) Spring boot 3, Angular 17, PrimeNG, PostgreSQL, Auth0 (2024) (Frontend)
 
-([Link](#))
+Angular frontend of the airbnb clone
 
-## Overview
-Developed an advanced short-term rental platform that prioritizes female travellers’ safety and comfort while streamlining the booking process for an enhanced user experience
+[Video tutorial](https://youtu.be/XriUV06Hkow)
 
+[Spring boot Backend](https://github.com/C0de-cake/airbnb-clone-backend)
 
-## Tools Used:
-+  Angular 17
-+  PrimeNG
-+  Auth0
-+  Spring Boot
-+  PostgreSQL
+### Key Features:
+- 📅 Booking management for travelers
+- 🏠 Landlord reservation management
+- 🔍 Search for houses by criteria (location, date, guests, beds, etc)
+- 🔐 Authentication and Authorization (Role management) with Auth0 (OAuth2)
+- 🏢 Domain-driven design
 
-## Features
+## Usage
+### Prerequisites
+- [NodeJS 20.11 LTS](https://nodejs.org/dist/v20.11.1/node-v20.11.1.pkg)
+- [Angular CLI v17](https://www.npmjs.com/package/@angular/cli)
+- IDE ([VSCode](https://code.visualstudio.com/download), [IntelliJ](https://www.jetbrains.com/idea/download/))
 
-### Advanced Search Capabilities
-Implemented advanced search capabilities allowing users to find properties by location, date, and guest count, significantly improving search precision and user satisfaction.
+### Fetch dependencies
+``npm install``
 
-### Secure Authentication and Authorization
-Integrated Auth0 for secure authentication and authorization, incorporating comprehensive role management and data protection.
+### Launch dev server
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-### High-Performance Backend
-Engineered a high-performance backend using PostgreSQL, optimizing schema design and queries for reliable data handling and system efficiency.
-
-
+### Build
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
