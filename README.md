@@ -1,5 +1,4 @@
-# QuickStay - Spring boot 3, Angular 17, PrimeNG, PostgreSQL, Auth0 (2024) (Frontend)
-
+# QuickStay - Spring boot 3, Angular 17, PrimeNG, PostgreSQL, Auth0 
 Angular frontend of the QuickStay
 
 ### Key Features:
